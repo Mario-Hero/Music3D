@@ -52,8 +52,7 @@ Use the up and down arrow keys to adjust the volume, the left and right arrow ke
 
 5. 允许画质设置
 
-
-
+</br>
 
 1. Sequential playback
 
