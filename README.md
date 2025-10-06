@@ -24,6 +24,12 @@ Never mind whether it's useful or not, as long as it looks good and COOLLL, that
 
 When the player is in the background, it stops rendering and has no GPU consumption.
 
+## 在哪下载 Where to download
+
+右边Release，下载`Music3D-Win64.rar`，目前仅支持Windows.
+
+Go to the release page on the right and download `Music3D-Win64.rar`, which currently only supports Windows.
+
 ## 使用方法 How to use
 
 打开程序，左下角点击文件夹，选择一个文件夹进行随机播放。左边音量旋钮，鼠标悬停在上面，滚轮调音量，也可以左键按住直接拖。右下角和右上角是常用的几个按键就不说了。
