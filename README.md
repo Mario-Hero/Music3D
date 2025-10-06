@@ -1,6 +1,6 @@
 # Music3D
 
-<img src="https://img.shields.io/badge/version-0.1-green" align="left" width="" /><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" align="left" width="" />
+<img src="https://img.shields.io/badge/version-0.1-green" align="left" width="" /><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" align="left" width="" /></br>
 
 
 
