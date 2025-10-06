@@ -40,6 +40,10 @@ Open the program, click on the folder in the bottom left corner, and select a fo
 
 Use the up and down arrow keys to adjust the volume, the left and right arrow keys to switch songs, and the space bar to pause.
 
+会自动导入mp3的内嵌封面或同文件夹的名为Cover的图片，自动导入同文件夹下同名的lrc歌词。
+
+It will automatically import MP3 embedded covers or images named Cover in the same folder, and automatically import LRC lyrics with the same name in the same folder.
+
 ## 后续要加(鸽)的功能 Future update
 
 1. 顺序播放
